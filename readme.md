@@ -8,9 +8,12 @@ Projects -  I have only highlighted the section but I will showcase my projects 
 Education - I have shown what I have learnt throughout my years.
 Contact - I shared a form on how I can be traced for a project with a client.
 Footer - puts in place my social media icons and end of my website.
+
 # Project languages
 HTML
+
 CSS
+
 # Project library
 I have a link to Box Icons that i used for my social media icons and emojis i.e double side axes.
 I have an image and CV on under my folder.
