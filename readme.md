@@ -1,13 +1,19 @@
 # Project title
  The name of the project is RESPONSIVE PORTFOLIO.
 # Project structure
-Introduction - an overview of what i major in and what is expected from me.
-portfolio - its all about what I do as a web developer.
-skills-I have showcased my skills through the language I use for my projects in a progress bar
-Projects -  I have only highlighted the section but I will showcase my projects as we progress
-Education - I have shown what I have learnt throughout my years.
-Contact - I shared a form on how I can be traced for a project with a client.
-Footer - puts in place my social media icons and end of my website.
+1.Introduction - an overview of what I major in and what is expected from me.
+
+2.Portfolio - its all about what I do as a web developer.
+
+3.skills-I have showcased my skills through the language I use for my projects in a progress bar.
+
+4.Projects -  I have only highlighted the section but I will showcase my projects as we progress
+
+5.Education - I have shown what I have learnt throughout my years.
+
+6.Contact - I shared a form on how I can be traced for a project with a client.
+
+7.Footer - puts in place my social media icons and end of my website.
 
 # Project languages
 HTML
